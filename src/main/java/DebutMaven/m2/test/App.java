@@ -5,6 +5,6 @@ package DebutMaven.m2.test;
  */
 public class App {
   public static void main(String[] args) {
-    System.out.println("Hello Wjhjkjhkorld!");
+    System.out.println("Hello Wrf^frsfjhjkjhkorld!");
   }
 }
